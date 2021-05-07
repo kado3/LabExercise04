@@ -1,5 +1,9 @@
+//Kofi Owusu-Peprah
+//Idaya Seidu
+
 #ifndef RECTBLOCKS_H
 #define RECTBLOCKS_H
+
 
 class RectBlocks {
   private:
